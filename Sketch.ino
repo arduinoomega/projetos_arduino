@@ -1,3 +1,6 @@
+/*Código por Lucas Soares Gomes
+*Acionar Relé com 2 palmas
+*/
 #define tmpMaxPalma  100
 #define tmpMaxPalmas 500
 #define pinMic 7
